@@ -108,7 +108,7 @@ It can be loaded later to make predictions without retraining.
 
 - 📄 Use Real Dataset from CSV
 
-      Load actual housing market data from a `.csv` file and train the model on a larger, more realistic dataset.
+  Load actual housing market data from a `.csv` file and train the model on a larger, more realistic dataset.
 
 - 🖥️ Build a GUI or Web App
   
